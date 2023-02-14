@@ -22,5 +22,5 @@ if (randomNumber1>randomNumber2){
 }else if (randomNumber2>randomNumber1){
     document.querySelector("h1").innerHTML="🚩Player2 Won"
 }else{
-    document.querySelector("h1").innerHTML="Roll the Dice"
+    document.querySelector("h1").innerHTML="Draw"
 }
